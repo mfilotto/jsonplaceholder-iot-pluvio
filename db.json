@@ -17,6 +17,12 @@
       "sn": "0004A30B002767D0",
       "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
       "name": "Test MFI REAL PLUVIO D0"
-    }    
+    },
+    {
+      "id": "f6980303-94d1-3b0a-3eb3-019309903230",
+      "sn": "0018b22000002a50",
+      "deviceTypeId": "4a504043-6543-49fb-b9dd-78e28f89c04b",
+      "name": "Test MFI REAL TEMP"
+    }
   ]
 }
