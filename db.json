@@ -1,16 +1,16 @@
 {
   "pluvios": [
     {
-      "value": "ae1ed566-d668-d5c5-07c1-34628f6b64b9",
-      "name": "D4"
+      "id": "ae1ed566-d668-d5c5-07c1-34628f6b64b9",
+      "sn": "D4"
     },
     {
-      "value": "5934143c-564e-f4a5-85e8-200cf4b03e55",
-      "name": "E2"
+      "id": "5934143c-564e-f4a5-85e8-200cf4b03e55",
+      "sn": "E2"
     },
     {
-      "value": "08d979cc-952d-c3b9-78cd-99b9c8ef527a",
-      "name": "D0"
+      "id": "08d979cc-952d-c3b9-78cd-99b9c8ef527a",
+      "sn": "D0"
     }    
   ]
 }
