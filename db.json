@@ -3,17 +3,20 @@
     {
       "id": "ae1ed566-d668-d5c5-07c1-34628f6b64b9",
       "sn": "0004A30B0027EFD4",
-      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9"
+      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
+      "name": "Test MFI REAL PLUVIO D4"
     },
     {
       "id": "5934143c-564e-f4a5-85e8-200cf4b03e55",
       "sn": "0004A30B002785E2",
-      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9"
+      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
+      "name": "Test MFI REAL PLUVIO 85E2"
     },
     {
       "id": "08d979cc-952d-c3b9-78cd-99b9c8ef527a",
       "sn": "0004A30B002767D0",
-      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9"
+      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
+      "name": "Test MFI REAL PLUVIO D0"
     }    
   ]
 }
