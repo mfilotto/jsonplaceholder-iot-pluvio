@@ -23,6 +23,12 @@
       "sn": "0018b22000002a50",
       "deviceTypeId": "4a504043-6543-49fb-b9dd-78e28f89c04b",
       "name": "Test MFI REAL TEMP"
+    },
+    {
+      "id": "241a5f9f-1180-838d-e137-b6a53be09ac3",
+      "sn": "0018B24000001719",
+      "deviceTypeId": "440f7f1c-8286-4050-9131-d585651d3a28",
+      "name": "Test MFI REAL PULSE 1"
     }
   ]
 }
