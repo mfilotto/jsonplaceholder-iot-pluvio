@@ -19,6 +19,18 @@
       "name": "Test MFI REAL PLUVIO D0"
     },
     {
+      "id": "ecb42ddd-9eb7-2205-f600-4db9b16b9790",
+      "sn": "4167BC32C8913E48",
+      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
+      "name": "Test MFI REAL PLUVIO 4G MP 3E48"
+    },
+    {
+      "id": "4863d64d-492b-acaf-c8e0-de84822fe7ee",
+      "sn": "5050BC32C8913E3E",
+      "deviceTypeId": "5a824060-58a3-4238-a4d5-08f7da332ba9",
+      "name": "Test MFI REAL PLUVIO 4G EDN 3E3E"
+    },    
+    {
       "id": "f6980303-94d1-3b0a-3eb3-019309903230",
       "sn": "0018b22000002a50",
       "deviceTypeId": "4a504043-6543-49fb-b9dd-78e28f89c04b",
